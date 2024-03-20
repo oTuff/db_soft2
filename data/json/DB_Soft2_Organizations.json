@@ -75,7 +75,19 @@
       },
       "AccountNo": 1093,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -260,7 +272,19 @@
       },
       "AccountNo": 1184,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -556,7 +580,19 @@
       },
       "AccountNo": 1499,
       "C40": 1,
-      "LocationID": 24
+      "LocationID": 24,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c1"
+        },
+        "LocationID": 24,
+        "CountryLocation": "(40.463667 -3.74922)",
+        "LandArea": 651,
+        "AverageTemperature": 16,
+        "AverageAltitude": 432,
+        "CountryID": 51,
+        "CountryName": "Spain"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -718,7 +754,19 @@
       },
       "AccountNo": 1850,
       "C40": 0,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -815,7 +863,19 @@
       },
       "AccountNo": 2430,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -945,7 +1005,19 @@
       },
       "AccountNo": 3203,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -1123,7 +1195,19 @@
       },
       "AccountNo": 3417,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -1328,7 +1412,19 @@
       },
       "AccountNo": 3422,
       "C40": 1,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -1560,7 +1656,19 @@
       },
       "AccountNo": 3429,
       "C40": 1,
-      "LocationID": 34
+      "LocationID": 34,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cb"
+        },
+        "LocationID": 34,
+        "CountryLocation": "(60.128161 18.643501)",
+        "LandArea": 216,
+        "AverageTemperature": 7,
+        "AverageAltitude": 50,
+        "CountryID": 53,
+        "CountryName": "Sweden"
+      }
     }
   ],
   "OrganizationGases": [
@@ -1686,7 +1794,19 @@
       },
       "AccountNo": 8242,
       "C40": 0,
-      "LocationID": 13
+      "LocationID": 13,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b6"
+        },
+        "LocationID": 13,
+        "CountryLocation": "(61.92411 25.748151)",
+        "LandArea": 316,
+        "AverageTemperature": 6,
+        "AverageAltitude": 64,
+        "CountryID": 17,
+        "CountryName": "Finland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -1871,7 +1991,19 @@
       },
       "AccountNo": 10495,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -1958,7 +2090,19 @@
       },
       "AccountNo": 10894,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -2257,7 +2401,19 @@
       },
       "AccountNo": 13067,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -2443,7 +2599,19 @@
       },
       "AccountNo": 14088,
       "C40": 1,
-      "LocationID": 25
+      "LocationID": 25,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c2"
+        },
+        "LocationID": 25,
+        "CountryLocation": "(60.472024 8.468946)",
+        "LandArea": 367,
+        "AverageTemperature": 6,
+        "AverageAltitude": 94,
+        "CountryID": 40,
+        "CountryName": "Norway"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -2653,7 +2821,19 @@
       },
       "AccountNo": 14344,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -2724,7 +2904,19 @@
       },
       "AccountNo": 14874,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -2983,7 +3175,19 @@
       },
       "AccountNo": 16581,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -3116,7 +3320,19 @@
       },
       "AccountNo": 19233,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGases": [
@@ -3260,7 +3476,19 @@
       },
       "AccountNo": 20113,
       "C40": 1,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -3475,7 +3703,19 @@
       },
       "AccountNo": 31009,
       "C40": 1,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -3642,7 +3882,19 @@
       },
       "AccountNo": 31052,
       "C40": 0,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -3752,7 +4004,19 @@
       },
       "AccountNo": 31055,
       "C40": 0,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "TargetEmission": [
@@ -3846,7 +4110,19 @@
       },
       "AccountNo": 31090,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -4029,7 +4305,19 @@
       },
       "AccountNo": 31108,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -4185,7 +4473,19 @@
       },
       "AccountNo": 31109,
       "C40": 1,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -4380,7 +4680,19 @@
       },
       "AccountNo": 31110,
       "C40": 1,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -4522,7 +4834,19 @@
       },
       "AccountNo": 31111,
       "C40": 1,
-      "LocationID": 32
+      "LocationID": 32,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c9"
+        },
+        "LocationID": 32,
+        "CountryLocation": "(36.204824 138.252924)",
+        "LandArea": 1039,
+        "AverageTemperature": 16,
+        "AverageAltitude": 47,
+        "CountryID": 29,
+        "CountryName": "Japan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -4762,7 +5086,19 @@
       },
       "AccountNo": 31112,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -4953,7 +5289,19 @@
       },
       "AccountNo": 31113,
       "C40": 1,
-      "LocationID": 32
+      "LocationID": 32,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c9"
+        },
+        "LocationID": 32,
+        "CountryLocation": "(36.204824 138.252924)",
+        "LandArea": 1039,
+        "AverageTemperature": 16,
+        "AverageAltitude": 47,
+        "CountryID": 29,
+        "CountryName": "Japan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -5341,7 +5689,19 @@
       },
       "AccountNo": 31114,
       "C40": 1,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -5527,7 +5887,19 @@
       },
       "AccountNo": 31115,
       "C40": 1,
-      "LocationID": 11
+      "LocationID": 11,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b4"
+        },
+        "LocationID": 11,
+        "CountryLocation": "(-30.559482 22.937506)",
+        "LandArea": 3065,
+        "AverageTemperature": 19,
+        "AverageAltitude": 1137,
+        "CountryID": 49,
+        "CountryName": "South Africa"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -5896,7 +6268,19 @@
       },
       "AccountNo": 31117,
       "C40": 1,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -6036,7 +6420,19 @@
       },
       "AccountNo": 31146,
       "C40": 1,
-      "LocationID": 28
+      "LocationID": 28,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c5"
+        },
+        "LocationID": 28,
+        "CountryLocation": "(9.145 40.489673)",
+        "LandArea": 540,
+        "AverageTemperature": 0,
+        "AverageAltitude": 2650,
+        "CountryID": 16,
+        "CountryName": "Ethiopia"
+      }
     }
   ],
   "OrganizationGases": [
@@ -6164,7 +6560,19 @@
       },
       "AccountNo": 31148,
       "C40": 1,
-      "LocationID": 14
+      "LocationID": 14,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b7"
+        },
+        "LocationID": 14,
+        "CountryLocation": "(52.132633 5.291266)",
+        "LandArea": 187,
+        "AverageTemperature": 11,
+        "AverageAltitude": -2,
+        "CountryID": 37,
+        "CountryName": "Netherlands"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -6360,7 +6768,19 @@
       },
       "AccountNo": 31149,
       "C40": 1,
-      "LocationID": 41
+      "LocationID": 41,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d2"
+        },
+        "LocationID": 41,
+        "CountryLocation": "(39.074208 21.824312)",
+        "LandArea": 39,
+        "AverageTemperature": 18,
+        "AverageAltitude": 208,
+        "CountryID": 21,
+        "CountryName": "Greece"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -6469,7 +6889,19 @@
       },
       "AccountNo": 31150,
       "C40": 1,
-      "LocationID": 62
+      "LocationID": 62,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8e7"
+        },
+        "LocationID": 62,
+        "CountryLocation": "(15.870032 100.992541)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 56,
+        "CountryName": "Thailand"
+      }
     }
   ],
   "TargetEmission": [
@@ -6664,7 +7096,19 @@
       },
       "AccountNo": 31151,
       "C40": 1,
-      "LocationID": 4
+      "LocationID": 4,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ad"
+        },
+        "LocationID": 4,
+        "CountryLocation": "(46.818188 8.227512)",
+        "LandArea": 53,
+        "AverageTemperature": 11,
+        "AverageAltitude": 389,
+        "CountryID": 54,
+        "CountryName": "Switzerland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -6898,7 +7342,19 @@
       },
       "AccountNo": 31154,
       "C40": 1,
-      "LocationID": 33
+      "LocationID": 33,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ca"
+        },
+        "LocationID": 33,
+        "CountryLocation": "(4.570868 -74.297333)",
+        "LandArea": 1141,
+        "AverageTemperature": 23,
+        "AverageAltitude": 1822,
+        "CountryID": 10,
+        "CountryName": "Colombia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -7091,7 +7547,19 @@
       },
       "AccountNo": 31155,
       "C40": 1,
-      "LocationID": 31
+      "LocationID": 31,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c8"
+        },
+        "LocationID": 31,
+        "CountryLocation": "(-38.416097 -63.616672)",
+        "LandArea": 480,
+        "AverageTemperature": 15,
+        "AverageAltitude": 25,
+        "CountryID": 2,
+        "CountryName": "Argentina"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -7258,7 +7726,19 @@
       },
       "AccountNo": 31156,
       "C40": 1,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -7373,7 +7853,19 @@
       },
       "AccountNo": 31157,
       "C40": 1,
-      "LocationID": 63
+      "LocationID": 63,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8e8"
+        },
+        "LocationID": 63,
+        "CountryLocation": "(20.5937 78.9629)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 24,
+        "CountryName": "India"
+      }
     }
   ],
   "TargetEmission": [
@@ -7450,7 +7942,19 @@
       },
       "AccountNo": 31159,
       "C40": 1,
-      "LocationID": 38
+      "LocationID": 38,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cf"
+        },
+        "LocationID": 38,
+        "CountryLocation": "(6.42375 -66.58973)",
+        "LandArea": 776,
+        "AverageTemperature": 25,
+        "AverageAltitude": 950,
+        "CountryID": 60,
+        "CountryName": "Venezuela"
+      }
     }
   ],
   "OrganizationGases": [
@@ -7562,7 +8066,19 @@
       },
       "AccountNo": 31163,
       "C40": 1,
-      "LocationID": 39
+      "LocationID": 39,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d0"
+        },
+        "LocationID": 39,
+        "CountryLocation": "(38.963745 35.243322)",
+        "LandArea": 5746,
+        "AverageTemperature": 17,
+        "AverageAltitude": 327,
+        "CountryID": 57,
+        "CountryName": "Turkey"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -7604,7 +8120,19 @@
       },
       "AccountNo": 31164,
       "C40": 1,
-      "LocationID": 48
+      "LocationID": 48,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d9"
+        },
+        "LocationID": 48,
+        "CountryLocation": "(14.058324 108.277199)",
+        "LandArea": 2095,
+        "AverageTemperature": 27,
+        "AverageAltitude": 0,
+        "CountryID": 61,
+        "CountryName": "Vietnam"
+      }
     }
   ],
   "OrganizationGases": [
@@ -7750,7 +8278,19 @@
       },
       "AccountNo": 31165,
       "C40": 1,
-      "LocationID": 19
+      "LocationID": 19,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bc"
+        },
+        "LocationID": 19,
+        "CountryLocation": "(51.165691 10.451526)",
+        "LandArea": 325,
+        "AverageTemperature": 11,
+        "AverageAltitude": 59,
+        "CountryID": 20,
+        "CountryName": "Germany"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -8157,7 +8697,19 @@
       },
       "AccountNo": 31166,
       "C40": 1,
-      "LocationID": 12
+      "LocationID": 12,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b5"
+        },
+        "LocationID": 12,
+        "CountryLocation": "(-0.789275 113.921327)",
+        "LandArea": 390,
+        "AverageTemperature": 31,
+        "AverageAltitude": 260,
+        "CountryID": 25,
+        "CountryName": "Indonesia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -8224,7 +8776,19 @@
       },
       "AccountNo": 31167,
       "C40": 1,
-      "LocationID": 42
+      "LocationID": 42,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d3"
+        },
+        "LocationID": 42,
+        "CountryLocation": "(9.081999 8.675277)",
+        "LandArea": 3328,
+        "AverageTemperature": 30,
+        "AverageAltitude": 34,
+        "CountryID": 39,
+        "CountryName": "Nigeria"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -8331,7 +8895,19 @@
       },
       "AccountNo": 31169,
       "C40": 1,
-      "LocationID": 37
+      "LocationID": 37,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ce"
+        },
+        "LocationID": 37,
+        "CountryLocation": "(22.396428 114.109497)",
+        "LandArea": 1104,
+        "AverageTemperature": 23,
+        "AverageAltitude": 129,
+        "CountryID": 22,
+        "CountryName": "Hong Kong"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -8509,7 +9085,19 @@
       },
       "AccountNo": 31170,
       "C40": 1,
-      "LocationID": 23
+      "LocationID": 23,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c0"
+        },
+        "LocationID": 23,
+        "CountryLocation": "(-9.189967 -75.015152)",
+        "LandArea": 1785,
+        "AverageTemperature": 18,
+        "AverageAltitude": 154,
+        "CountryID": 41,
+        "CountryName": "Peru"
+      }
     }
   ],
   "OrganizationGases": [
@@ -8659,7 +9247,19 @@
       },
       "AccountNo": 31171,
       "C40": 1,
-      "LocationID": 24
+      "LocationID": 24,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c1"
+        },
+        "LocationID": 24,
+        "CountryLocation": "(40.463667 -3.74922)",
+        "LandArea": 651,
+        "AverageTemperature": 16,
+        "AverageAltitude": 432,
+        "CountryID": 51,
+        "CountryName": "Spain"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -8934,7 +9534,19 @@
       },
       "AccountNo": 31172,
       "C40": 1,
-      "LocationID": 27
+      "LocationID": 27,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c4"
+        },
+        "LocationID": 27,
+        "CountryLocation": "(23.634501 -102.552784)",
+        "LandArea": 2351,
+        "AverageTemperature": 19,
+        "AverageAltitude": 2119,
+        "CountryID": 34,
+        "CountryName": "Mexico"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -9163,7 +9775,19 @@
       },
       "AccountNo": 31173,
       "C40": 1,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -9240,7 +9864,19 @@
       },
       "AccountNo": 31174,
       "C40": 1,
-      "LocationID": 47
+      "LocationID": 47,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d8"
+        },
+        "LocationID": 47,
+        "CountryLocation": "(61.52401 105.318756)",
+        "LandArea": 2511,
+        "AverageTemperature": 7,
+        "AverageAltitude": 0,
+        "CountryID": 46,
+        "CountryName": "Russia"
+      }
     }
   ],
   "TargetEmission": [
@@ -9311,7 +9947,19 @@
       },
       "AccountNo": 31175,
       "C40": 1,
-      "LocationID": 5
+      "LocationID": 5,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ae"
+        },
+        "LocationID": 5,
+        "CountryLocation": "(46.227638 2.213749)",
+        "LandArea": 379,
+        "AverageTemperature": 12,
+        "AverageAltitude": 85,
+        "CountryID": 18,
+        "CountryName": "France"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -9579,7 +10227,19 @@
       },
       "AccountNo": 31176,
       "C40": 1,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -9739,7 +10399,19 @@
       },
       "AccountNo": 31177,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -9881,7 +10553,19 @@
       },
       "AccountNo": 31179,
       "C40": 1,
-      "LocationID": 14
+      "LocationID": 14,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b7"
+        },
+        "LocationID": 14,
+        "CountryLocation": "(52.132633 5.291266)",
+        "LandArea": 187,
+        "AverageTemperature": 11,
+        "AverageAltitude": -2,
+        "CountryID": 37,
+        "CountryName": "Netherlands"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -10128,7 +10812,19 @@
       },
       "AccountNo": 31180,
       "C40": 1,
-      "LocationID": 17
+      "LocationID": 17,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ba"
+        },
+        "LocationID": 17,
+        "CountryLocation": "(-35.675147 -71.542969)",
+        "LandArea": 15403,
+        "AverageTemperature": 14,
+        "AverageAltitude": 520,
+        "CountryID": 8,
+        "CountryName": "Chile"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -10308,7 +11004,19 @@
       },
       "AccountNo": 31181,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -10651,7 +11359,19 @@
       },
       "AccountNo": 31182,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -10894,7 +11614,19 @@
       },
       "AccountNo": 31185,
       "C40": 1,
-      "LocationID": 9
+      "LocationID": 9,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b2"
+        },
+        "LocationID": 9,
+        "CountryLocation": "(51.919438 19.145136)",
+        "LandArea": 439,
+        "AverageTemperature": 9,
+        "AverageAltitude": 103,
+        "CountryID": 43,
+        "CountryName": "Poland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -10976,7 +11708,19 @@
       },
       "AccountNo": 31186,
       "C40": 1,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "TargetEmission": [
@@ -11060,7 +11804,19 @@
       },
       "AccountNo": 31187,
       "C40": 1,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -11200,7 +11956,19 @@
       },
       "AccountNo": 31313,
       "C40": 0,
-      "LocationID": 29
+      "LocationID": 29,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c6"
+        },
+        "LocationID": 29,
+        "CountryLocation": "(53.41291 -8.24389)",
+        "LandArea": 115,
+        "AverageTemperature": 10,
+        "AverageAltitude": 85,
+        "CountryID": 26,
+        "CountryName": "Ireland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -11357,7 +12125,19 @@
       },
       "AccountNo": 31446,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -11557,7 +12337,19 @@
       },
       "AccountNo": 32480,
       "C40": 0,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -11752,7 +12544,19 @@
       },
       "AccountNo": 32550,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -12037,7 +12841,19 @@
       },
       "AccountNo": 35268,
       "C40": 1,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -12184,7 +13000,19 @@
       },
       "AccountNo": 35274,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -12259,7 +13087,19 @@
       },
       "AccountNo": 35393,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -12443,7 +13283,19 @@
       },
       "AccountNo": 35449,
       "C40": 0,
-      "LocationID": 4
+      "LocationID": 4,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ad"
+        },
+        "LocationID": 4,
+        "CountryLocation": "(46.818188 8.227512)",
+        "LandArea": 53,
+        "AverageTemperature": 11,
+        "AverageAltitude": 389,
+        "CountryID": 54,
+        "CountryName": "Switzerland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -12681,7 +13533,19 @@
       },
       "AccountNo": 35475,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -12860,7 +13724,19 @@
       },
       "AccountNo": 35755,
       "C40": 0,
-      "LocationID": 39
+      "LocationID": 39,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d0"
+        },
+        "LocationID": 39,
+        "CountryLocation": "(38.963745 35.243322)",
+        "LandArea": 5746,
+        "AverageTemperature": 17,
+        "AverageAltitude": 327,
+        "CountryID": 57,
+        "CountryName": "Turkey"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -12984,7 +13860,19 @@
       },
       "AccountNo": 35848,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -13126,7 +14014,19 @@
       },
       "AccountNo": 35853,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -13290,7 +14190,19 @@
       },
       "AccountNo": 35857,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -13443,7 +14355,19 @@
       },
       "AccountNo": 35858,
       "C40": 1,
-      "LocationID": 11
+      "LocationID": 11,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b4"
+        },
+        "LocationID": 11,
+        "CountryLocation": "(-30.559482 22.937506)",
+        "LandArea": 3065,
+        "AverageTemperature": 19,
+        "AverageAltitude": 1137,
+        "CountryID": 49,
+        "CountryName": "South Africa"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -13650,7 +14574,19 @@
       },
       "AccountNo": 35859,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -13835,7 +14771,19 @@
       },
       "AccountNo": 35860,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -13923,7 +14871,19 @@
       },
       "AccountNo": 35862,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -14057,7 +15017,19 @@
       },
       "AccountNo": 35863,
       "C40": 1,
-      "LocationID": 11
+      "LocationID": 11,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b4"
+        },
+        "LocationID": 11,
+        "CountryLocation": "(-30.559482 22.937506)",
+        "LandArea": 3065,
+        "AverageTemperature": 19,
+        "AverageAltitude": 1137,
+        "CountryID": 49,
+        "CountryName": "South Africa"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -14253,7 +15225,19 @@
       },
       "AccountNo": 35868,
       "C40": 0,
-      "LocationID": 19
+      "LocationID": 19,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bc"
+        },
+        "LocationID": 19,
+        "CountryLocation": "(51.165691 10.451526)",
+        "LandArea": 325,
+        "AverageTemperature": 11,
+        "AverageAltitude": 59,
+        "CountryID": 20,
+        "CountryName": "Germany"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -14449,7 +15433,19 @@
       },
       "AccountNo": 35870,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -14520,7 +15516,19 @@
       },
       "AccountNo": 35872,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -14818,7 +15826,19 @@
       },
       "AccountNo": 35874,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -14887,7 +15907,19 @@
       },
       "AccountNo": 35877,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -15048,7 +16080,19 @@
       },
       "AccountNo": 35878,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -15177,7 +16221,19 @@
       },
       "AccountNo": 35879,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -15346,7 +16402,19 @@
       },
       "AccountNo": 35880,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -15581,7 +16649,19 @@
       },
       "AccountNo": 35883,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -15682,7 +16762,19 @@
       },
       "AccountNo": 35884,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -15896,7 +16988,19 @@
       },
       "AccountNo": 35885,
       "C40": 0,
-      "LocationID": 53
+      "LocationID": 53,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8de"
+        },
+        "LocationID": 53,
+        "CountryLocation": "(31.046051 34.851612)",
+        "LandArea": 52,
+        "AverageTemperature": 20,
+        "AverageAltitude": 0,
+        "CountryID": 27,
+        "CountryName": "Israel"
+      }
     }
   ],
   "OrganizationGases": [
@@ -16003,7 +17107,19 @@
       },
       "AccountNo": 35886,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -16104,7 +17220,19 @@
       },
       "AccountNo": 35894,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -16325,7 +17453,19 @@
       },
       "AccountNo": 35898,
       "C40": 0,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -16473,7 +17613,19 @@
       },
       "AccountNo": 35902,
       "C40": 0,
-      "LocationID": 32
+      "LocationID": 32,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c9"
+        },
+        "LocationID": 32,
+        "CountryLocation": "(36.204824 138.252924)",
+        "LandArea": 1039,
+        "AverageTemperature": 16,
+        "AverageAltitude": 47,
+        "CountryID": 29,
+        "CountryName": "Japan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -16636,7 +17788,19 @@
       },
       "AccountNo": 35993,
       "C40": 1,
-      "LocationID": 45
+      "LocationID": 45,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d6"
+        },
+        "LocationID": 45,
+        "CountryLocation": "(1.352083 103.819836)",
+        "LandArea": 719,
+        "AverageTemperature": 27,
+        "AverageAltitude": 0,
+        "CountryID": 47,
+        "CountryName": "Singapore"
+      }
     }
   ],
   "OrganizationGases": [
@@ -16794,7 +17958,19 @@
       },
       "AccountNo": 35995,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -16928,7 +18104,19 @@
       },
       "AccountNo": 36002,
       "C40": 0,
-      "LocationID": 71
+      "LocationID": 71,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8f0"
+        },
+        "LocationID": 71,
+        "CountryLocation": "(-4.038333 21.758664)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 12,
+        "CountryName": "Democratic Republic of Congo"
+      }
     }
   ],
   "TargetEmission": [
@@ -16972,7 +18160,19 @@
       },
       "AccountNo": 36036,
       "C40": 0,
-      "LocationID": 42
+      "LocationID": 42,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d3"
+        },
+        "LocationID": 42,
+        "CountryLocation": "(9.081999 8.675277)",
+        "LandArea": 3328,
+        "AverageTemperature": 30,
+        "AverageAltitude": 34,
+        "CountryID": 39,
+        "CountryName": "Nigeria"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -17099,7 +18299,19 @@
       },
       "AccountNo": 36037,
       "C40": 0,
-      "LocationID": 33
+      "LocationID": 33,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ca"
+        },
+        "LocationID": 33,
+        "CountryLocation": "(4.570868 -74.297333)",
+        "LandArea": 1141,
+        "AverageTemperature": 23,
+        "AverageAltitude": 1822,
+        "CountryID": 10,
+        "CountryName": "Colombia"
+      }
     }
   ],
   "OrganizationGases": [
@@ -17201,7 +18413,19 @@
       },
       "AccountNo": 36045,
       "C40": 0,
-      "LocationID": 22
+      "LocationID": 22,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bf"
+        },
+        "LocationID": 22,
+        "CountryLocation": "(-1.831239 -78.183406)",
+        "LandArea": 4640,
+        "AverageTemperature": 24,
+        "AverageAltitude": 2815,
+        "CountryID": 14,
+        "CountryName": "Ecuador"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -17323,7 +18547,19 @@
       },
       "AccountNo": 36154,
       "C40": 0,
-      "LocationID": 20
+      "LocationID": 20,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bd"
+        },
+        "LocationID": 20,
+        "CountryLocation": "(55.169438 23.881275)",
+        "LandArea": 401,
+        "AverageTemperature": 7,
+        "AverageAltitude": 98,
+        "CountryID": 32,
+        "CountryName": "Lithuania"
+      }
     }
   ],
   "OrganizationGases": [
@@ -17407,7 +18643,19 @@
       },
       "AccountNo": 36158,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -17545,7 +18793,19 @@
       },
       "AccountNo": 36159,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGases": [
@@ -17660,7 +18920,19 @@
       },
       "AccountNo": 36252,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -17741,7 +19013,19 @@
       },
       "AccountNo": 36254,
       "C40": 1,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -17869,7 +19153,19 @@
       },
       "AccountNo": 36261,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -17963,7 +19259,19 @@
       },
       "AccountNo": 36262,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -18063,7 +19371,19 @@
       },
       "AccountNo": 36263,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -18150,7 +19470,19 @@
       },
       "AccountNo": 36274,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -18305,7 +19637,19 @@
       },
       "AccountNo": 36285,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -18409,7 +19753,19 @@
       },
       "AccountNo": 36286,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -18522,7 +19878,19 @@
       },
       "AccountNo": 36426,
       "C40": 0,
-      "LocationID": 69
+      "LocationID": 69,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ee"
+        },
+        "LocationID": 69,
+        "CountryLocation": "(56.8796 24.6032)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 31,
+        "CountryName": "Latvia"
+      }
     }
   ],
   "TargetEmission": [
@@ -18582,7 +19950,19 @@
       },
       "AccountNo": 36477,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -18614,7 +19994,19 @@
       },
       "AccountNo": 36484,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -18646,7 +20038,19 @@
       },
       "AccountNo": 36489,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -18691,7 +20095,19 @@
       },
       "AccountNo": 36492,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -18753,7 +20169,19 @@
       },
       "AccountNo": 36494,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "TargetEmission": [
@@ -18810,7 +20238,19 @@
       },
       "AccountNo": 36495,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -18921,7 +20361,19 @@
       },
       "AccountNo": 36518,
       "C40": 0,
-      "LocationID": 26
+      "LocationID": 26,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c3"
+        },
+        "LocationID": 26,
+        "CountryLocation": "(41.87194 12.56738)",
+        "LandArea": 385,
+        "AverageTemperature": 14,
+        "AverageAltitude": 62,
+        "CountryID": 28,
+        "CountryName": "Italy"
+      }
     }
   ],
   "OrganizationGases": [
@@ -19064,7 +20516,19 @@
       },
       "AccountNo": 42120,
       "C40": 1,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGases": [
@@ -19171,7 +20635,19 @@
       },
       "AccountNo": 42123,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -19248,7 +20724,19 @@
       },
       "AccountNo": 42178,
       "C40": 1,
-      "LocationID": 22
+      "LocationID": 22,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bf"
+        },
+        "LocationID": 22,
+        "CountryLocation": "(-1.831239 -78.183406)",
+        "LandArea": 4640,
+        "AverageTemperature": 24,
+        "AverageAltitude": 2815,
+        "CountryID": 14,
+        "CountryName": "Ecuador"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -19507,7 +20995,19 @@
       },
       "AccountNo": 43905,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -19645,7 +21145,19 @@
       },
       "AccountNo": 43907,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -19774,7 +21286,19 @@
       },
       "AccountNo": 43910,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -19897,7 +21421,19 @@
       },
       "AccountNo": 43911,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGases": [
@@ -20037,7 +21573,19 @@
       },
       "AccountNo": 43912,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -20185,7 +21733,19 @@
       },
       "AccountNo": 43914,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ]
 },
@@ -20290,7 +21850,19 @@
       },
       "AccountNo": 43920,
       "C40": 0,
-      "LocationID": 30
+      "LocationID": 30,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c7"
+        },
+        "LocationID": 30,
+        "CountryLocation": "(46.151241 14.995463)",
+        "LandArea": 275,
+        "AverageTemperature": 10,
+        "AverageAltitude": 0,
+        "CountryID": 48,
+        "CountryName": "Slovenia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -20409,7 +21981,19 @@
       },
       "AccountNo": 43926,
       "C40": 0,
-      "LocationID": 19
+      "LocationID": 19,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bc"
+        },
+        "LocationID": 19,
+        "CountryLocation": "(51.165691 10.451526)",
+        "LandArea": 325,
+        "AverageTemperature": 11,
+        "AverageAltitude": 59,
+        "CountryID": 20,
+        "CountryName": "Germany"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -20556,7 +22140,19 @@
       },
       "AccountNo": 43928,
       "C40": 0,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -20750,7 +22346,19 @@
       },
       "AccountNo": 43930,
       "C40": 0,
-      "LocationID": 14
+      "LocationID": 14,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b7"
+        },
+        "LocationID": 14,
+        "CountryLocation": "(52.132633 5.291266)",
+        "LandArea": 187,
+        "AverageTemperature": 11,
+        "AverageAltitude": -2,
+        "CountryID": 37,
+        "CountryName": "Netherlands"
+      }
     }
   ],
   "TargetEmission": [
@@ -20870,7 +22478,19 @@
       },
       "AccountNo": 43932,
       "C40": 1,
-      "LocationID": 35
+      "LocationID": 35,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cc"
+        },
+        "LocationID": 35,
+        "CountryLocation": "(-40.900557 174.885971)",
+        "LandArea": 2592,
+        "AverageTemperature": 14,
+        "AverageAltitude": 79,
+        "CountryID": 38,
+        "CountryName": "New Zealand"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -21023,7 +22643,19 @@
       },
       "AccountNo": 43934,
       "C40": 0,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "TargetEmission": [
@@ -21124,7 +22756,19 @@
       },
       "AccountNo": 43937,
       "C40": 0,
-      "LocationID": 35
+      "LocationID": 35,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cc"
+        },
+        "LocationID": 35,
+        "CountryLocation": "(-40.900557 174.885971)",
+        "LandArea": 2592,
+        "AverageTemperature": 14,
+        "AverageAltitude": 79,
+        "CountryID": 38,
+        "CountryName": "New Zealand"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -21404,7 +23048,19 @@
       },
       "AccountNo": 43940,
       "C40": 0,
-      "LocationID": 34
+      "LocationID": 34,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cb"
+        },
+        "LocationID": 34,
+        "CountryLocation": "(60.128161 18.643501)",
+        "LandArea": 216,
+        "AverageTemperature": 7,
+        "AverageAltitude": 50,
+        "CountryID": 53,
+        "CountryName": "Sweden"
+      }
     }
   ],
   "TargetEmission": [
@@ -21453,7 +23109,19 @@
       },
       "AccountNo": 43975,
       "C40": 0,
-      "LocationID": 23
+      "LocationID": 23,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c0"
+        },
+        "LocationID": 23,
+        "CountryLocation": "(-9.189967 -75.015152)",
+        "LandArea": 1785,
+        "AverageTemperature": 18,
+        "AverageAltitude": 154,
+        "CountryID": 41,
+        "CountryName": "Peru"
+      }
     }
   ],
   "TargetEmission": [
@@ -21521,7 +23189,19 @@
       },
       "AccountNo": 44132,
       "C40": 0,
-      "LocationID": 39
+      "LocationID": 39,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d0"
+        },
+        "LocationID": 39,
+        "CountryLocation": "(38.963745 35.243322)",
+        "LandArea": 5746,
+        "AverageTemperature": 17,
+        "AverageAltitude": 327,
+        "CountryID": 57,
+        "CountryName": "Turkey"
+      }
     }
   ],
   "Population": [
@@ -21585,7 +23265,19 @@
       },
       "AccountNo": 44182,
       "C40": 0,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -21712,7 +23404,19 @@
       },
       "AccountNo": 44185,
       "C40": 0,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "OrganizationGases": [
@@ -21847,7 +23551,19 @@
       },
       "AccountNo": 44191,
       "C40": 0,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "TargetEmission": [
@@ -21879,7 +23595,19 @@
       },
       "AccountNo": 44295,
       "C40": 0,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "TargetEmission": [
@@ -22008,7 +23736,19 @@
       },
       "AccountNo": 46473,
       "C40": 0,
-      "LocationID": 24
+      "LocationID": 24,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c1"
+        },
+        "LocationID": 24,
+        "CountryLocation": "(40.463667 -3.74922)",
+        "LandArea": 651,
+        "AverageTemperature": 16,
+        "AverageAltitude": 432,
+        "CountryID": 51,
+        "CountryName": "Spain"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22135,7 +23875,19 @@
       },
       "AccountNo": 46514,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "Population": [
@@ -22226,7 +23978,19 @@
       },
       "AccountNo": 49327,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22303,7 +24067,19 @@
       },
       "AccountNo": 49334,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22480,7 +24256,19 @@
       },
       "AccountNo": 49335,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22542,7 +24330,19 @@
       },
       "AccountNo": 49338,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22635,7 +24435,19 @@
       },
       "AccountNo": 49342,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22753,7 +24565,19 @@
       },
       "AccountNo": 49360,
       "C40": 1,
-      "LocationID": 11
+      "LocationID": 11,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b4"
+        },
+        "LocationID": 11,
+        "CountryLocation": "(-30.559482 22.937506)",
+        "LandArea": 3065,
+        "AverageTemperature": 19,
+        "AverageAltitude": 1137,
+        "CountryID": 49,
+        "CountryName": "South Africa"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22831,7 +24655,19 @@
       },
       "AccountNo": 49363,
       "C40": 0,
-      "LocationID": 11
+      "LocationID": 11,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b4"
+        },
+        "LocationID": 11,
+        "CountryLocation": "(-30.559482 22.937506)",
+        "LandArea": 3065,
+        "AverageTemperature": 19,
+        "AverageAltitude": 1137,
+        "CountryID": 49,
+        "CountryName": "South Africa"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -22881,7 +24717,19 @@
       },
       "AccountNo": 49386,
       "C40": 0,
-      "LocationID": 32
+      "LocationID": 32,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c9"
+        },
+        "LocationID": 32,
+        "CountryLocation": "(36.204824 138.252924)",
+        "LandArea": 1039,
+        "AverageTemperature": 16,
+        "AverageAltitude": 47,
+        "CountryID": 29,
+        "CountryName": "Japan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -23032,7 +24880,19 @@
       },
       "AccountNo": 49787,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -23197,7 +25057,19 @@
       },
       "AccountNo": 50154,
       "C40": 0,
-      "LocationID": 13
+      "LocationID": 13,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b6"
+        },
+        "LocationID": 13,
+        "CountryLocation": "(61.92411 25.748151)",
+        "LandArea": 316,
+        "AverageTemperature": 6,
+        "AverageAltitude": 64,
+        "CountryID": 17,
+        "CountryName": "Finland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -23313,7 +25185,19 @@
       },
       "AccountNo": 50211,
       "C40": 0,
-      "LocationID": 43
+      "LocationID": 43,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d4"
+        },
+        "LocationID": 43,
+        "CountryLocation": "(40.786168 -81.288192)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 19,
+        "CountryName": "Georgia"
+      }
     }
   ],
   "TargetEmission": [
@@ -23380,7 +25264,19 @@
       },
       "AccountNo": 50220,
       "C40": 0,
-      "LocationID": 5
+      "LocationID": 5,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ae"
+        },
+        "LocationID": 5,
+        "CountryLocation": "(46.227638 2.213749)",
+        "LandArea": 379,
+        "AverageTemperature": 12,
+        "AverageAltitude": 85,
+        "CountryID": 18,
+        "CountryName": "France"
+      }
     }
   ],
   "OrganizationGases": [
@@ -23498,7 +25394,19 @@
       },
       "AccountNo": 50357,
       "C40": 0,
-      "LocationID": 31
+      "LocationID": 31,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c8"
+        },
+        "LocationID": 31,
+        "CountryLocation": "(-38.416097 -63.616672)",
+        "LandArea": 480,
+        "AverageTemperature": 15,
+        "AverageAltitude": 25,
+        "CountryID": 2,
+        "CountryName": "Argentina"
+      }
     }
   ],
   "TargetEmission": [
@@ -23583,7 +25491,19 @@
       },
       "AccountNo": 50359,
       "C40": 0,
-      "LocationID": 27
+      "LocationID": 27,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c4"
+        },
+        "LocationID": 27,
+        "CountryLocation": "(23.634501 -102.552784)",
+        "LandArea": 2351,
+        "AverageTemperature": 19,
+        "AverageAltitude": 2119,
+        "CountryID": 34,
+        "CountryName": "Mexico"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -23815,7 +25735,19 @@
       },
       "AccountNo": 50364,
       "C40": 0,
-      "LocationID": 16
+      "LocationID": 16,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b9"
+        },
+        "LocationID": 16,
+        "CountryLocation": "(-16.290154 -63.588653)",
+        "LandArea": 2010,
+        "AverageTemperature": 13,
+        "AverageAltitude": 3200,
+        "CountryID": 4,
+        "CountryName": "Bolivia"
+      }
     }
   ],
   "OrganizationGases": [
@@ -24003,7 +25935,19 @@
       },
       "AccountNo": 50369,
       "C40": 0,
-      "LocationID": 27
+      "LocationID": 27,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c4"
+        },
+        "LocationID": 27,
+        "CountryLocation": "(23.634501 -102.552784)",
+        "LandArea": 2351,
+        "AverageTemperature": 19,
+        "AverageAltitude": 2119,
+        "CountryID": 34,
+        "CountryName": "Mexico"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -24103,7 +26047,19 @@
       },
       "AccountNo": 50371,
       "C40": 0,
-      "LocationID": 31
+      "LocationID": 31,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c8"
+        },
+        "LocationID": 31,
+        "CountryLocation": "(-38.416097 -63.616672)",
+        "LandArea": 480,
+        "AverageTemperature": 15,
+        "AverageAltitude": 25,
+        "CountryID": 2,
+        "CountryName": "Argentina"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -24210,7 +26166,19 @@
       },
       "AccountNo": 50375,
       "C40": 0,
-      "LocationID": 27
+      "LocationID": 27,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c4"
+        },
+        "LocationID": 27,
+        "CountryLocation": "(23.634501 -102.552784)",
+        "LandArea": 2351,
+        "AverageTemperature": 19,
+        "AverageAltitude": 2119,
+        "CountryID": 34,
+        "CountryName": "Mexico"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -24341,7 +26309,19 @@
       },
       "AccountNo": 50382,
       "C40": 0,
-      "LocationID": 27
+      "LocationID": 27,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c4"
+        },
+        "LocationID": 27,
+        "CountryLocation": "(23.634501 -102.552784)",
+        "LandArea": 2351,
+        "AverageTemperature": 19,
+        "AverageAltitude": 2119,
+        "CountryID": 34,
+        "CountryName": "Mexico"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -24408,7 +26388,19 @@
       },
       "AccountNo": 50383,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -24586,7 +26578,19 @@
       },
       "AccountNo": 50384,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -24721,7 +26725,19 @@
       },
       "AccountNo": 50386,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "TargetEmission": [
@@ -24789,7 +26805,19 @@
       },
       "AccountNo": 50392,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ]
 },
@@ -24952,7 +26980,19 @@
       },
       "AccountNo": 50541,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -25011,7 +27051,19 @@
       },
       "AccountNo": 50543,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "TargetEmission": [
@@ -25073,7 +27125,19 @@
       },
       "AccountNo": 50551,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -25167,7 +27231,19 @@
       },
       "AccountNo": 50555,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -25408,7 +27484,19 @@
       },
       "AccountNo": 50558,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -25609,7 +27697,19 @@
       },
       "AccountNo": 50559,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -25688,7 +27788,19 @@
       },
       "AccountNo": 50560,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -25822,7 +27934,19 @@
       },
       "AccountNo": 50568,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -25924,7 +28048,19 @@
       },
       "AccountNo": 50572,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -26053,7 +28189,19 @@
       },
       "AccountNo": 50578,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -26177,7 +28325,19 @@
       },
       "AccountNo": 50579,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -26318,7 +28478,19 @@
       },
       "AccountNo": 50671,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -26393,7 +28565,19 @@
       },
       "AccountNo": 50672,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGases": [
@@ -26494,7 +28678,19 @@
       },
       "AccountNo": 50673,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -26652,7 +28848,19 @@
       },
       "AccountNo": 50679,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGases": [
@@ -26780,7 +28988,19 @@
       },
       "AccountNo": 50680,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGases": [
@@ -26817,7 +29037,19 @@
       },
       "AccountNo": 50681,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "TargetEmission": [
@@ -26849,7 +29081,19 @@
       },
       "AccountNo": 50716,
       "C40": 0,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "TargetEmission": [
@@ -26898,7 +29142,19 @@
       },
       "AccountNo": 50792,
       "C40": 0,
-      "LocationID": 44
+      "LocationID": 44,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d5"
+        },
+        "LocationID": 44,
+        "CountryLocation": "(43.738418 7.424616)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 35,
+        "CountryName": "Monaco"
+      }
     }
   ],
   "TargetEmission": [
@@ -26985,7 +29241,19 @@
       },
       "AccountNo": 51075,
       "C40": 1,
-      "LocationID": 66
+      "LocationID": 66,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8eb"
+        },
+        "LocationID": 66,
+        "CountryLocation": "(35.86166 104.195397)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 9,
+        "CountryName": "China"
+      }
     }
   ],
   "TargetEmission": [
@@ -27017,7 +29285,19 @@
       },
       "AccountNo": 51105,
       "C40": 0,
-      "LocationID": 6
+      "LocationID": 6,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8af"
+        },
+        "LocationID": 6,
+        "CountryLocation": "(35.907757 127.766922)",
+        "LandArea": 702,
+        "AverageTemperature": 13,
+        "AverageAltitude": 62,
+        "CountryID": 50,
+        "CountryName": "South Korea"
+      }
     }
   ],
   "TargetEmission": [
@@ -27095,7 +29375,19 @@
       },
       "AccountNo": 52893,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -27201,7 +29493,19 @@
       },
       "AccountNo": 52897,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -27331,7 +29635,19 @@
       },
       "AccountNo": 53254,
       "C40": 0,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "OrganizationGases": [
@@ -27411,7 +29727,19 @@
       },
       "AccountNo": 53921,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -27470,7 +29798,19 @@
       },
       "AccountNo": 53959,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -27571,7 +29911,19 @@
       },
       "AccountNo": 54046,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -27650,7 +30002,19 @@
       },
       "AccountNo": 54048,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -27767,7 +30131,19 @@
       },
       "AccountNo": 54057,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -28003,7 +30379,19 @@
       },
       "AccountNo": 54066,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -28080,7 +30468,19 @@
       },
       "AccountNo": 54070,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -28241,7 +30641,19 @@
       },
       "AccountNo": 54075,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -28370,7 +30782,19 @@
       },
       "AccountNo": 54078,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -28508,7 +30932,19 @@
       },
       "AccountNo": 54085,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -28603,7 +31039,19 @@
       },
       "AccountNo": 54088,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGases": [
@@ -28677,7 +31125,19 @@
       },
       "AccountNo": 54092,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -28908,7 +31368,19 @@
       },
       "AccountNo": 54100,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -29013,7 +31485,19 @@
       },
       "AccountNo": 54102,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -29363,7 +31847,19 @@
       },
       "AccountNo": 54104,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -29490,7 +31986,19 @@
       },
       "AccountNo": 54108,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -29610,7 +32118,19 @@
       },
       "AccountNo": 54110,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -29766,7 +32286,19 @@
       },
       "AccountNo": 54111,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -29948,7 +32480,19 @@
       },
       "AccountNo": 54113,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -30088,7 +32632,19 @@
       },
       "AccountNo": 54119,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -30244,7 +32800,19 @@
       },
       "AccountNo": 54128,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -30854,7 +33422,19 @@
       },
       "AccountNo": 54329,
       "C40": 0,
-      "LocationID": 12
+      "LocationID": 12,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b5"
+        },
+        "LocationID": 12,
+        "CountryLocation": "(-0.789275 113.921327)",
+        "LandArea": 390,
+        "AverageTemperature": 31,
+        "AverageAltitude": 260,
+        "CountryID": 25,
+        "CountryName": "Indonesia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -31132,7 +33712,19 @@
       },
       "AccountNo": 54337,
       "C40": 1,
-      "LocationID": 40
+      "LocationID": 40,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d1"
+        },
+        "LocationID": 40,
+        "CountryLocation": "(30.585164 36.238414)",
+        "LandArea": 800,
+        "AverageTemperature": 17,
+        "AverageAltitude": 900,
+        "CountryID": 30,
+        "CountryName": "Jordan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -31355,7 +33947,19 @@
       },
       "AccountNo": 54347,
       "C40": 0,
-      "LocationID": 18
+      "LocationID": 18,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bb"
+        },
+        "LocationID": 18,
+        "CountryLocation": "(12.879721 121.774017)",
+        "LandArea": 134,
+        "AverageTemperature": 28,
+        "AverageAltitude": 10,
+        "CountryID": 42,
+        "CountryName": "Philippines"
+      }
     }
   ],
   "TargetEmission": [
@@ -31658,7 +34262,19 @@
       },
       "AccountNo": 54354,
       "C40": 0,
-      "LocationID": 18
+      "LocationID": 18,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bb"
+        },
+        "LocationID": 18,
+        "CountryLocation": "(12.879721 121.774017)",
+        "LandArea": 134,
+        "AverageTemperature": 28,
+        "AverageAltitude": 10,
+        "CountryID": 42,
+        "CountryName": "Philippines"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -31814,7 +34430,19 @@
       },
       "AccountNo": 54356,
       "C40": 0,
-      "LocationID": 18
+      "LocationID": 18,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bb"
+        },
+        "LocationID": 18,
+        "CountryLocation": "(12.879721 121.774017)",
+        "LandArea": 134,
+        "AverageTemperature": 28,
+        "AverageAltitude": 10,
+        "CountryID": 42,
+        "CountryName": "Philippines"
+      }
     }
   ],
   "OrganizationGases": [
@@ -32025,7 +34653,19 @@
       },
       "AccountNo": 54364,
       "C40": 1,
-      "LocationID": 52
+      "LocationID": 52,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8dd"
+        },
+        "LocationID": 52,
+        "CountryLocation": "(4.210484 101.975766)",
+        "LandArea": 2217,
+        "AverageTemperature": 30,
+        "AverageAltitude": 0,
+        "CountryID": 33,
+        "CountryName": "Malaysia"
+      }
     }
   ],
   "TargetEmission": [
@@ -32216,7 +34856,19 @@
       },
       "AccountNo": 54386,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -32361,7 +35013,19 @@
       },
       "AccountNo": 54388,
       "C40": 0,
-      "LocationID": 52
+      "LocationID": 52,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8dd"
+        },
+        "LocationID": 52,
+        "CountryLocation": "(4.210484 101.975766)",
+        "LandArea": 2217,
+        "AverageTemperature": 30,
+        "AverageAltitude": 0,
+        "CountryID": 33,
+        "CountryName": "Malaysia"
+      }
     }
   ],
   "TargetEmission": [
@@ -32422,7 +35086,19 @@
       },
       "AccountNo": 54389,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -32465,7 +35141,19 @@
       },
       "AccountNo": 54390,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "TargetEmission": [
@@ -32590,7 +35278,19 @@
       },
       "AccountNo": 54395,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -32776,7 +35476,19 @@
       },
       "AccountNo": 54402,
       "C40": 0,
-      "LocationID": 13
+      "LocationID": 13,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b6"
+        },
+        "LocationID": 13,
+        "CountryLocation": "(61.92411 25.748151)",
+        "LandArea": 316,
+        "AverageTemperature": 6,
+        "AverageAltitude": 64,
+        "CountryID": 17,
+        "CountryName": "Finland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -32954,7 +35666,19 @@
       },
       "AccountNo": 54408,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGases": [
@@ -33031,7 +35755,19 @@
       },
       "AccountNo": 54409,
       "C40": 0,
-      "LocationID": 13
+      "LocationID": 13,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b6"
+        },
+        "LocationID": 13,
+        "CountryLocation": "(61.92411 25.748151)",
+        "LandArea": 316,
+        "AverageTemperature": 6,
+        "AverageAltitude": 64,
+        "CountryID": 17,
+        "CountryName": "Finland"
+      }
     }
   ],
   "OrganizationGases": [
@@ -33126,7 +35862,19 @@
       },
       "AccountNo": 54425,
       "C40": 0,
-      "LocationID": 5
+      "LocationID": 5,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ae"
+        },
+        "LocationID": 5,
+        "CountryLocation": "(46.227638 2.213749)",
+        "LandArea": 379,
+        "AverageTemperature": 12,
+        "AverageAltitude": 85,
+        "CountryID": 18,
+        "CountryName": "France"
+      }
     }
   ],
   "TargetEmission": [
@@ -33259,7 +36007,19 @@
       },
       "AccountNo": 54443,
       "C40": 0,
-      "LocationID": 19
+      "LocationID": 19,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bc"
+        },
+        "LocationID": 19,
+        "CountryLocation": "(51.165691 10.451526)",
+        "LandArea": 325,
+        "AverageTemperature": 11,
+        "AverageAltitude": 59,
+        "CountryID": 20,
+        "CountryName": "Germany"
+      }
     }
   ],
   "OrganizationGases": [
@@ -33389,7 +36149,19 @@
       },
       "AccountNo": 54459,
       "C40": 0,
-      "LocationID": 36
+      "LocationID": 36,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cd"
+        },
+        "LocationID": 36,
+        "CountryLocation": "(64.963051 -19.020835)",
+        "LandArea": 275,
+        "AverageTemperature": 6,
+        "AverageAltitude": 40,
+        "CountryID": 23,
+        "CountryName": "Iceland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -33521,7 +36293,19 @@
       },
       "AccountNo": 54461,
       "C40": 0,
-      "LocationID": 14
+      "LocationID": 14,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b7"
+        },
+        "LocationID": 14,
+        "CountryLocation": "(52.132633 5.291266)",
+        "LandArea": 187,
+        "AverageTemperature": 11,
+        "AverageAltitude": -2,
+        "CountryID": 37,
+        "CountryName": "Netherlands"
+      }
     }
   ],
   "OrganizationGases": [
@@ -33623,7 +36407,19 @@
       },
       "AccountNo": 54497,
       "C40": 0,
-      "LocationID": 9
+      "LocationID": 9,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b2"
+        },
+        "LocationID": 9,
+        "CountryLocation": "(51.919438 19.145136)",
+        "LandArea": 439,
+        "AverageTemperature": 9,
+        "AverageAltitude": 103,
+        "CountryID": 43,
+        "CountryName": "Poland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -33698,7 +36494,19 @@
       },
       "AccountNo": 54498,
       "C40": 0,
-      "LocationID": 24
+      "LocationID": 24,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c1"
+        },
+        "LocationID": 24,
+        "CountryLocation": "(40.463667 -3.74922)",
+        "LandArea": 651,
+        "AverageTemperature": 16,
+        "AverageAltitude": 432,
+        "CountryID": 51,
+        "CountryName": "Spain"
+      }
     }
   ],
   "TargetEmission": [
@@ -33943,7 +36751,19 @@
       },
       "AccountNo": 54520,
       "C40": 0,
-      "LocationID": 4
+      "LocationID": 4,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ad"
+        },
+        "LocationID": 4,
+        "CountryLocation": "(46.818188 8.227512)",
+        "LandArea": 53,
+        "AverageTemperature": 11,
+        "AverageAltitude": 389,
+        "CountryID": 54,
+        "CountryName": "Switzerland"
+      }
     }
   ],
   "OrganizationGases": [
@@ -34044,7 +36864,19 @@
       },
       "AccountNo": 54521,
       "C40": 0,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "OrganizationGases": [
@@ -34183,7 +37015,19 @@
       },
       "AccountNo": 54529,
       "C40": 0,
-      "LocationID": 2
+      "LocationID": 2,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ab"
+        },
+        "LocationID": 2,
+        "CountryLocation": "(55.378051 -3.435973)",
+        "LandArea": 653,
+        "AverageTemperature": 11,
+        "AverageAltitude": 95,
+        "CountryID": 58,
+        "CountryName": "United Kingdom"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -34355,7 +37199,19 @@
       },
       "AccountNo": 54610,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -34639,7 +37495,19 @@
       },
       "AccountNo": 54623,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -34699,7 +37567,19 @@
       },
       "AccountNo": 54637,
       "C40": 0,
-      "LocationID": 22
+      "LocationID": 22,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bf"
+        },
+        "LocationID": 22,
+        "CountryLocation": "(-1.831239 -78.183406)",
+        "LandArea": 4640,
+        "AverageTemperature": 24,
+        "AverageAltitude": 2815,
+        "CountryID": 14,
+        "CountryName": "Ecuador"
+      }
     }
   ],
   "TargetEmission": [
@@ -34807,7 +37687,19 @@
       },
       "AccountNo": 54650,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -35002,7 +37894,19 @@
       },
       "AccountNo": 55179,
       "C40": 0,
-      "LocationID": 32
+      "LocationID": 32,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c9"
+        },
+        "LocationID": 32,
+        "CountryLocation": "(36.204824 138.252924)",
+        "LandArea": 1039,
+        "AverageTemperature": 16,
+        "AverageAltitude": 47,
+        "CountryID": 29,
+        "CountryName": "Japan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -35188,7 +38092,19 @@
       },
       "AccountNo": 55324,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -35385,7 +38301,19 @@
       },
       "AccountNo": 55325,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "Population": [
@@ -35444,7 +38372,19 @@
       },
       "AccountNo": 55334,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "TargetEmission": [
@@ -35573,7 +38513,19 @@
       },
       "AccountNo": 55415,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -35666,7 +38618,19 @@
       },
       "AccountNo": 55442,
       "C40": 0,
-      "LocationID": 21
+      "LocationID": 21,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8be"
+        },
+        "LocationID": 21,
+        "CountryLocation": "(39.399872 -8.224454)",
+        "LandArea": 11448,
+        "AverageTemperature": 16,
+        "AverageAltitude": 72,
+        "CountryID": 44,
+        "CountryName": "Portugal"
+      }
     }
   ],
   "OrganizationGases": [
@@ -35731,7 +38695,19 @@
       },
       "AccountNo": 55467,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -35795,7 +38771,19 @@
       },
       "AccountNo": 55616,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -35980,7 +38968,19 @@
       },
       "AccountNo": 55799,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -36148,7 +39148,19 @@
       },
       "AccountNo": 55800,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -36222,7 +39234,19 @@
       },
       "AccountNo": 55801,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -36389,7 +39413,19 @@
       },
       "AccountNo": 56276,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -36669,7 +39705,19 @@
       },
       "AccountNo": 57347,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -36807,7 +39855,19 @@
       },
       "AccountNo": 57509,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -36857,7 +39917,19 @@
       },
       "AccountNo": 57616,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -36994,7 +40066,19 @@
       },
       "AccountNo": 58310,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -37108,7 +40192,19 @@
       },
       "AccountNo": 58357,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -37196,7 +40292,19 @@
       },
       "AccountNo": 58395,
       "C40": 0,
-      "LocationID": 25
+      "LocationID": 25,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c2"
+        },
+        "LocationID": 25,
+        "CountryLocation": "(60.472024 8.468946)",
+        "LandArea": 367,
+        "AverageTemperature": 6,
+        "AverageAltitude": 94,
+        "CountryID": 40,
+        "CountryName": "Norway"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -37267,7 +40375,19 @@
       },
       "AccountNo": 58424,
       "C40": 0,
-      "LocationID": 9
+      "LocationID": 9,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b2"
+        },
+        "LocationID": 9,
+        "CountryLocation": "(51.919438 19.145136)",
+        "LandArea": 439,
+        "AverageTemperature": 9,
+        "AverageAltitude": 103,
+        "CountryID": 43,
+        "CountryName": "Poland"
+      }
     }
   ],
   "TargetEmission": [
@@ -37324,7 +40444,19 @@
       },
       "AccountNo": 58461,
       "C40": 0,
-      "LocationID": 55
+      "LocationID": 55,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8e0"
+        },
+        "LocationID": 55,
+        "CountryLocation": "(42.697708 23.321868)",
+        "LandArea": 5151,
+        "AverageTemperature": 13,
+        "AverageAltitude": 0,
+        "CountryID": 6,
+        "CountryName": "Bulgaria"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -37391,7 +40523,19 @@
       },
       "AccountNo": 58485,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -37480,7 +40624,19 @@
       },
       "AccountNo": 58488,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -37684,7 +40840,19 @@
       },
       "AccountNo": 58489,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -37773,7 +40941,19 @@
       },
       "AccountNo": 58511,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -37860,7 +41040,19 @@
       },
       "AccountNo": 58513,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -37892,7 +41084,19 @@
       },
       "AccountNo": 58530,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -37991,7 +41195,19 @@
       },
       "AccountNo": 58531,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -38072,7 +41288,19 @@
       },
       "AccountNo": 58537,
       "C40": 0,
-      "LocationID": 9
+      "LocationID": 9,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b2"
+        },
+        "LocationID": 9,
+        "CountryLocation": "(51.919438 19.145136)",
+        "LandArea": 439,
+        "AverageTemperature": 9,
+        "AverageAltitude": 103,
+        "CountryID": 43,
+        "CountryName": "Poland"
+      }
     }
   ],
   "TargetEmission": [
@@ -38161,7 +41389,19 @@
       },
       "AccountNo": 58543,
       "C40": 0,
-      "LocationID": 7
+      "LocationID": 7,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b0"
+        },
+        "LocationID": 7,
+        "CountryLocation": "(-25.274398 133.775136)",
+        "LandArea": 1322,
+        "AverageTemperature": 17,
+        "AverageAltitude": 172,
+        "CountryID": 3,
+        "CountryName": "Australia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -38222,7 +41462,19 @@
       },
       "AccountNo": 58569,
       "C40": 0,
-      "LocationID": 64
+      "LocationID": 64,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8e9"
+        },
+        "LocationID": 64,
+        "CountryLocation": "(42.708678 19.37439)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 36,
+        "CountryName": "Montenegro"
+      }
     }
   ],
   "TargetEmission": [
@@ -38309,7 +41561,19 @@
       },
       "AccountNo": 58590,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ]
 },
@@ -38348,7 +41612,19 @@
       },
       "AccountNo": 58609,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGases": [
@@ -38435,7 +41711,19 @@
       },
       "AccountNo": 58610,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGases": [
@@ -38504,7 +41792,19 @@
       },
       "AccountNo": 58621,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -38621,7 +41921,19 @@
       },
       "AccountNo": 58627,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -38696,7 +42008,19 @@
       },
       "AccountNo": 58628,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -38749,7 +42073,19 @@
       },
       "AccountNo": 58636,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -38838,7 +42174,19 @@
       },
       "AccountNo": 58671,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -38933,7 +42281,19 @@
       },
       "AccountNo": 58781,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "TargetEmission": [
@@ -38965,7 +42325,19 @@
       },
       "AccountNo": 58796,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "TargetEmission": [
@@ -38997,7 +42369,19 @@
       },
       "AccountNo": 58797,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "TargetEmission": [
@@ -39042,7 +42426,19 @@
       },
       "AccountNo": 58868,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "TargetEmission": [
@@ -39222,7 +42618,19 @@
       },
       "AccountNo": 58871,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -39270,7 +42678,19 @@
       },
       "AccountNo": 59151,
       "C40": 0,
-      "LocationID": 36
+      "LocationID": 36,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8cd"
+        },
+        "LocationID": 36,
+        "CountryLocation": "(64.963051 -19.020835)",
+        "LandArea": 275,
+        "AverageTemperature": 6,
+        "AverageAltitude": 40,
+        "CountryID": 23,
+        "CountryName": "Iceland"
+      }
     }
   ],
   "TargetEmission": [
@@ -39327,7 +42747,19 @@
       },
       "AccountNo": 59158,
       "C40": 0,
-      "LocationID": 61
+      "LocationID": 61,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8e6"
+        },
+        "LocationID": 61,
+        "CountryLocation": "(-11.6455 43.3333)",
+        "LandArea": 30,
+        "AverageTemperature": 23,
+        "AverageAltitude": 0,
+        "CountryID": 11,
+        "CountryName": "Comoros"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -39367,7 +42799,19 @@
       },
       "AccountNo": 59160,
       "C40": 0,
-      "LocationID": 4
+      "LocationID": 4,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ad"
+        },
+        "LocationID": 4,
+        "CountryLocation": "(46.818188 8.227512)",
+        "LandArea": 53,
+        "AverageTemperature": 11,
+        "AverageAltitude": 389,
+        "CountryID": 54,
+        "CountryName": "Switzerland"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -39439,7 +42883,19 @@
       },
       "AccountNo": 59163,
       "C40": 0,
-      "LocationID": 57
+      "LocationID": 57,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8e2"
+        },
+        "LocationID": 57,
+        "CountryLocation": "(41.153332 20.168331)",
+        "LandArea": 1110,
+        "AverageTemperature": 15,
+        "AverageAltitude": 0,
+        "CountryID": 1,
+        "CountryName": "Albania"
+      }
     }
   ],
   "OrganizationGases": [
@@ -39488,7 +42944,19 @@
       },
       "AccountNo": 59165,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -39677,7 +43145,19 @@
       },
       "AccountNo": 59167,
       "C40": 0,
-      "LocationID": 17
+      "LocationID": 17,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ba"
+        },
+        "LocationID": 17,
+        "CountryLocation": "(-35.675147 -71.542969)",
+        "LandArea": 15403,
+        "AverageTemperature": 14,
+        "AverageAltitude": 520,
+        "CountryID": 8,
+        "CountryName": "Chile"
+      }
     }
   ],
   "TargetEmission": [
@@ -39738,7 +43218,19 @@
       },
       "AccountNo": 59180,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -39809,7 +43301,19 @@
       },
       "AccountNo": 59535,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -39866,7 +43370,19 @@
       },
       "AccountNo": 59537,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -39962,7 +43478,19 @@
       },
       "AccountNo": 59545,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -40065,7 +43593,19 @@
       },
       "AccountNo": 59552,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -40186,7 +43726,19 @@
       },
       "AccountNo": 59563,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -40339,7 +43891,19 @@
       },
       "AccountNo": 59595,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -40432,7 +43996,19 @@
       },
       "AccountNo": 59612,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -40512,7 +44088,19 @@
       },
       "AccountNo": 59631,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -40616,7 +44204,19 @@
       },
       "AccountNo": 59633,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -40723,7 +44323,19 @@
       },
       "AccountNo": 59669,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGases": [
@@ -40970,7 +44582,19 @@
       },
       "AccountNo": 59996,
       "C40": 0,
-      "LocationID": 18
+      "LocationID": 18,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bb"
+        },
+        "LocationID": 18,
+        "CountryLocation": "(12.879721 121.774017)",
+        "LandArea": 134,
+        "AverageTemperature": 28,
+        "AverageAltitude": 10,
+        "CountryID": 42,
+        "CountryName": "Philippines"
+      }
     }
   ],
   "OrganizationGases": [
@@ -41064,7 +44688,19 @@
       },
       "AccountNo": 60002,
       "C40": 0,
-      "LocationID": 18
+      "LocationID": 18,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8bb"
+        },
+        "LocationID": 18,
+        "CountryLocation": "(12.879721 121.774017)",
+        "LandArea": 134,
+        "AverageTemperature": 28,
+        "AverageAltitude": 10,
+        "CountryID": 42,
+        "CountryName": "Philippines"
+      }
     }
   ],
   "TargetEmission": [
@@ -41255,7 +44891,19 @@
       },
       "AccountNo": 60114,
       "C40": 0,
-      "LocationID": 9
+      "LocationID": 9,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b2"
+        },
+        "LocationID": 9,
+        "CountryLocation": "(51.919438 19.145136)",
+        "LandArea": 439,
+        "AverageTemperature": 9,
+        "AverageAltitude": 103,
+        "CountryID": 43,
+        "CountryName": "Poland"
+      }
     }
   ],
   "TargetEmission": [
@@ -41324,7 +44972,19 @@
       },
       "AccountNo": 60126,
       "C40": 0,
-      "LocationID": 70
+      "LocationID": 70,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ef"
+        },
+        "LocationID": 70,
+        "CountryLocation": "(58.5953 25.0136)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 15,
+        "CountryName": "Estonia"
+      }
     }
   ],
   "TargetEmission": [
@@ -41544,7 +45204,19 @@
       },
       "AccountNo": 60229,
       "C40": 0,
-      "LocationID": 25
+      "LocationID": 25,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c2"
+        },
+        "LocationID": 25,
+        "CountryLocation": "(60.472024 8.468946)",
+        "LandArea": 367,
+        "AverageTemperature": 6,
+        "AverageAltitude": 94,
+        "CountryID": 40,
+        "CountryName": "Norway"
+      }
     }
   ],
   "TargetEmission": [
@@ -41690,7 +45362,19 @@
       },
       "AccountNo": 60273,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -41756,7 +45440,19 @@
       },
       "AccountNo": 60318,
       "C40": 0,
-      "LocationID": 10
+      "LocationID": 10,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b3"
+        },
+        "LocationID": 10,
+        "CountryLocation": "(-14.235004 -51.92528)",
+        "LandArea": 53420,
+        "AverageTemperature": 22,
+        "AverageAltitude": 448,
+        "CountryID": 5,
+        "CountryName": "Brazil"
+      }
     }
   ]
 },
@@ -41832,7 +45528,19 @@
       },
       "AccountNo": 60374,
       "C40": 0,
-      "LocationID": 33
+      "LocationID": 33,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ca"
+        },
+        "LocationID": 33,
+        "CountryLocation": "(4.570868 -74.297333)",
+        "LandArea": 1141,
+        "AverageTemperature": 23,
+        "AverageAltitude": 1822,
+        "CountryID": 10,
+        "CountryName": "Colombia"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -41908,7 +45616,19 @@
       },
       "AccountNo": 60387,
       "C40": 0,
-      "LocationID": 33
+      "LocationID": 33,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ca"
+        },
+        "LocationID": 33,
+        "CountryLocation": "(4.570868 -74.297333)",
+        "LandArea": 1141,
+        "AverageTemperature": 23,
+        "AverageAltitude": 1822,
+        "CountryID": 10,
+        "CountryName": "Colombia"
+      }
     }
   ],
   "TargetEmission": [
@@ -41992,7 +45712,19 @@
       },
       "AccountNo": 60392,
       "C40": 0,
-      "LocationID": 23
+      "LocationID": 23,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c0"
+        },
+        "LocationID": 23,
+        "CountryLocation": "(-9.189967 -75.015152)",
+        "LandArea": 1785,
+        "AverageTemperature": 18,
+        "AverageAltitude": 154,
+        "CountryID": 41,
+        "CountryName": "Peru"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -42085,7 +45817,19 @@
       },
       "AccountNo": 60394,
       "C40": 0,
-      "LocationID": 16
+      "LocationID": 16,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b9"
+        },
+        "LocationID": 16,
+        "CountryLocation": "(-16.290154 -63.588653)",
+        "LandArea": 2010,
+        "AverageTemperature": 13,
+        "AverageAltitude": 3200,
+        "CountryID": 4,
+        "CountryName": "Bolivia"
+      }
     }
   ],
   "TargetEmission": [
@@ -42378,7 +46122,19 @@
       },
       "AccountNo": 60416,
       "C40": 0,
-      "LocationID": 31
+      "LocationID": 31,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c8"
+        },
+        "LocationID": 31,
+        "CountryLocation": "(-38.416097 -63.616672)",
+        "LandArea": 480,
+        "AverageTemperature": 15,
+        "AverageAltitude": 25,
+        "CountryID": 2,
+        "CountryName": "Argentina"
+      }
     }
   ],
   "TargetEmission": [
@@ -42448,7 +46204,19 @@
       },
       "AccountNo": 60419,
       "C40": 0,
-      "LocationID": 31
+      "LocationID": 31,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c8"
+        },
+        "LocationID": 31,
+        "CountryLocation": "(-38.416097 -63.616672)",
+        "LandArea": 480,
+        "AverageTemperature": 15,
+        "AverageAltitude": 25,
+        "CountryID": 2,
+        "CountryName": "Argentina"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -42534,7 +46302,19 @@
       },
       "AccountNo": 60433,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -42596,7 +46376,19 @@
       },
       "AccountNo": 60577,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "TargetEmission": [
@@ -42658,7 +46450,19 @@
       },
       "AccountNo": 60588,
       "C40": 0,
-      "LocationID": 46
+      "LocationID": 46,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8d7"
+        },
+        "LocationID": 46,
+        "CountryLocation": "(45.943161 24.96676)",
+        "LandArea": 0,
+        "AverageTemperature": 0,
+        "AverageAltitude": 0,
+        "CountryID": 45,
+        "CountryName": "Romania"
+      }
     }
   ],
   "TargetEmission": [
@@ -42895,7 +46699,19 @@
       },
       "AccountNo": 60602,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "OrganizationGases": [
@@ -42977,7 +46793,19 @@
       },
       "AccountNo": 60603,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "TargetEmission": [
@@ -43100,7 +46928,19 @@
       },
       "AccountNo": 60656,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -43230,7 +47070,19 @@
       },
       "AccountNo": 60680,
       "C40": 0,
-      "LocationID": 1
+      "LocationID": 1,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8aa"
+        },
+        "LocationID": 1,
+        "CountryLocation": "(56.130366 -106.346771)",
+        "LandArea": 494,
+        "AverageTemperature": 7,
+        "AverageAltitude": 251,
+        "CountryID": 7,
+        "CountryName": "Canada"
+      }
     }
   ],
   "TargetEmission": [
@@ -43369,7 +47221,19 @@
       },
       "AccountNo": 61753,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "OrganizationGases": [
@@ -43491,7 +47355,19 @@
       },
       "AccountNo": 61790,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -43654,7 +47530,19 @@
       },
       "AccountNo": 62180,
       "C40": 0,
-      "LocationID": 5
+      "LocationID": 5,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ae"
+        },
+        "LocationID": 5,
+        "CountryLocation": "(46.227638 2.213749)",
+        "LandArea": 379,
+        "AverageTemperature": 12,
+        "AverageAltitude": 85,
+        "CountryID": 18,
+        "CountryName": "France"
+      }
     }
   ],
   "OrganizationGases": [
@@ -43795,7 +47683,19 @@
       },
       "AccountNo": 62855,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -43875,7 +47775,19 @@
       },
       "AccountNo": 62864,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGases": [
@@ -43928,7 +47840,19 @@
       },
       "AccountNo": 63542,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "TargetEmission": [
@@ -43977,7 +47901,19 @@
       },
       "AccountNo": 63543,
       "C40": 0,
-      "LocationID": 8
+      "LocationID": 8,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b1"
+        },
+        "LocationID": 8,
+        "CountryLocation": "(56.26392 9.501785)",
+        "LandArea": 131,
+        "AverageTemperature": 8,
+        "AverageAltitude": 17,
+        "CountryID": 13,
+        "CountryName": "Denmark"
+      }
     }
   ],
   "TargetEmission": [
@@ -44075,7 +48011,19 @@
       },
       "AccountNo": 63616,
       "C40": 0,
-      "LocationID": 54
+      "LocationID": 54,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8df"
+        },
+        "LocationID": 54,
+        "CountryLocation": "(31.9522 35.2332)",
+        "LandArea": 19,
+        "AverageTemperature": 25,
+        "AverageAltitude": 0,
+        "CountryID": 52,
+        "CountryName": "State of Palestine"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -44160,7 +48108,19 @@
       },
       "AccountNo": 63999,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -44234,7 +48194,19 @@
       },
       "AccountNo": 64014,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "OrganizationGDP": [
@@ -44489,7 +48461,19 @@
       },
       "AccountNo": 69835,
       "C40": 0,
-      "LocationID": 31
+      "LocationID": 31,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8c8"
+        },
+        "LocationID": 31,
+        "CountryLocation": "(-38.416097 -63.616672)",
+        "LandArea": 480,
+        "AverageTemperature": 15,
+        "AverageAltitude": 25,
+        "CountryID": 2,
+        "CountryName": "Argentina"
+      }
     }
   ],
   "TargetEmission": [
@@ -44605,7 +48589,19 @@
       },
       "AccountNo": 69967,
       "C40": 0,
-      "LocationID": 33
+      "LocationID": 33,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ca"
+        },
+        "LocationID": 33,
+        "CountryLocation": "(4.570868 -74.297333)",
+        "LandArea": 1141,
+        "AverageTemperature": 23,
+        "AverageAltitude": 1822,
+        "CountryID": 10,
+        "CountryName": "Colombia"
+      }
     }
   ],
   "OrganizationGases": [
@@ -44672,7 +48668,19 @@
       },
       "AccountNo": 70247,
       "C40": 0,
-      "LocationID": 15
+      "LocationID": 15,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8b8"
+        },
+        "LocationID": 15,
+        "CountryLocation": "(23.69781 120.960515)",
+        "LandArea": 1945,
+        "AverageTemperature": 23,
+        "AverageAltitude": 178,
+        "CountryID": 55,
+        "CountryName": "Taiwan"
+      }
     }
   ],
   "TargetEmission": [
@@ -44747,7 +48755,19 @@
       },
       "AccountNo": 73295,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -44779,7 +48799,19 @@
       },
       "AccountNo": 73302,
       "C40": 0,
-      "LocationID": 3
+      "LocationID": 3,
+      "Location": {
+        "_id": {
+          "$oid": "65f808cb841f55429513b8ac"
+        },
+        "LocationID": 3,
+        "CountryLocation": "(37.09024 -95.712891)",
+        "LandArea": 299,
+        "AverageTemperature": 14,
+        "AverageAltitude": 326,
+        "CountryID": 59,
+        "CountryName": "USA"
+      }
     }
   ],
   "TargetEmission": [
@@ -50203,7 +54235,7 @@
 },
 {
   "_id": {
-    "$oid": "65faa4c3fa229e10407a7153"
+    "$oid": "65faae9ffa229e10407a8e31"
   },
   "AccountNo": null,
   "Gases": [
@@ -50262,785 +54294,6 @@
       },
       "GasID": 8,
       "GasName": "CO2"
-    }
-  ],
-  "Location": [
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8aa"
-      },
-      "LocationID": 1,
-      "CountryLocation": "(56.130366 -106.346771)",
-      "LandArea": 494,
-      "AverageTemperature": 7,
-      "AverageAltitude": 251,
-      "CountryID": 7
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ab"
-      },
-      "LocationID": 2,
-      "CountryLocation": "(55.378051 -3.435973)",
-      "LandArea": 653,
-      "AverageTemperature": 11,
-      "AverageAltitude": 95,
-      "CountryID": 58
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ac"
-      },
-      "LocationID": 3,
-      "CountryLocation": "(37.09024 -95.712891)",
-      "LandArea": 299,
-      "AverageTemperature": 14,
-      "AverageAltitude": 326,
-      "CountryID": 59
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ad"
-      },
-      "LocationID": 4,
-      "CountryLocation": "(46.818188 8.227512)",
-      "LandArea": 53,
-      "AverageTemperature": 11,
-      "AverageAltitude": 389,
-      "CountryID": 54
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ae"
-      },
-      "LocationID": 5,
-      "CountryLocation": "(46.227638 2.213749)",
-      "LandArea": 379,
-      "AverageTemperature": 12,
-      "AverageAltitude": 85,
-      "CountryID": 18
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8af"
-      },
-      "LocationID": 6,
-      "CountryLocation": "(35.907757 127.766922)",
-      "LandArea": 702,
-      "AverageTemperature": 13,
-      "AverageAltitude": 62,
-      "CountryID": 50
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b0"
-      },
-      "LocationID": 7,
-      "CountryLocation": "(-25.274398 133.775136)",
-      "LandArea": 1322,
-      "AverageTemperature": 17,
-      "AverageAltitude": 172,
-      "CountryID": 3
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b1"
-      },
-      "LocationID": 8,
-      "CountryLocation": "(56.26392 9.501785)",
-      "LandArea": 131,
-      "AverageTemperature": 8,
-      "AverageAltitude": 17,
-      "CountryID": 13
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b2"
-      },
-      "LocationID": 9,
-      "CountryLocation": "(51.919438 19.145136)",
-      "LandArea": 439,
-      "AverageTemperature": 9,
-      "AverageAltitude": 103,
-      "CountryID": 43
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b3"
-      },
-      "LocationID": 10,
-      "CountryLocation": "(-14.235004 -51.92528)",
-      "LandArea": 53420,
-      "AverageTemperature": 22,
-      "AverageAltitude": 448,
-      "CountryID": 5
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b4"
-      },
-      "LocationID": 11,
-      "CountryLocation": "(-30.559482 22.937506)",
-      "LandArea": 3065,
-      "AverageTemperature": 19,
-      "AverageAltitude": 1137,
-      "CountryID": 49
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b5"
-      },
-      "LocationID": 12,
-      "CountryLocation": "(-0.789275 113.921327)",
-      "LandArea": 390,
-      "AverageTemperature": 31,
-      "AverageAltitude": 260,
-      "CountryID": 25
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b6"
-      },
-      "LocationID": 13,
-      "CountryLocation": "(61.92411 25.748151)",
-      "LandArea": 316,
-      "AverageTemperature": 6,
-      "AverageAltitude": 64,
-      "CountryID": 17
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b7"
-      },
-      "LocationID": 14,
-      "CountryLocation": "(52.132633 5.291266)",
-      "LandArea": 187,
-      "AverageTemperature": 11,
-      "AverageAltitude": -2,
-      "CountryID": 37
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b8"
-      },
-      "LocationID": 15,
-      "CountryLocation": "(23.69781 120.960515)",
-      "LandArea": 1945,
-      "AverageTemperature": 23,
-      "AverageAltitude": 178,
-      "CountryID": 55
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8b9"
-      },
-      "LocationID": 16,
-      "CountryLocation": "(-16.290154 -63.588653)",
-      "LandArea": 2010,
-      "AverageTemperature": 13,
-      "AverageAltitude": 3200,
-      "CountryID": 4
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ba"
-      },
-      "LocationID": 17,
-      "CountryLocation": "(-35.675147 -71.542969)",
-      "LandArea": 15403,
-      "AverageTemperature": 14,
-      "AverageAltitude": 520,
-      "CountryID": 8
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8bb"
-      },
-      "LocationID": 18,
-      "CountryLocation": "(12.879721 121.774017)",
-      "LandArea": 134,
-      "AverageTemperature": 28,
-      "AverageAltitude": 10,
-      "CountryID": 42
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8bc"
-      },
-      "LocationID": 19,
-      "CountryLocation": "(51.165691 10.451526)",
-      "LandArea": 325,
-      "AverageTemperature": 11,
-      "AverageAltitude": 59,
-      "CountryID": 20
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8bd"
-      },
-      "LocationID": 20,
-      "CountryLocation": "(55.169438 23.881275)",
-      "LandArea": 401,
-      "AverageTemperature": 7,
-      "AverageAltitude": 98,
-      "CountryID": 32
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8be"
-      },
-      "LocationID": 21,
-      "CountryLocation": "(39.399872 -8.224454)",
-      "LandArea": 11448,
-      "AverageTemperature": 16,
-      "AverageAltitude": 72,
-      "CountryID": 44
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8bf"
-      },
-      "LocationID": 22,
-      "CountryLocation": "(-1.831239 -78.183406)",
-      "LandArea": 4640,
-      "AverageTemperature": 24,
-      "AverageAltitude": 2815,
-      "CountryID": 14
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c0"
-      },
-      "LocationID": 23,
-      "CountryLocation": "(-9.189967 -75.015152)",
-      "LandArea": 1785,
-      "AverageTemperature": 18,
-      "AverageAltitude": 154,
-      "CountryID": 41
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c1"
-      },
-      "LocationID": 24,
-      "CountryLocation": "(40.463667 -3.74922)",
-      "LandArea": 651,
-      "AverageTemperature": 16,
-      "AverageAltitude": 432,
-      "CountryID": 51
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c2"
-      },
-      "LocationID": 25,
-      "CountryLocation": "(60.472024 8.468946)",
-      "LandArea": 367,
-      "AverageTemperature": 6,
-      "AverageAltitude": 94,
-      "CountryID": 40
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c3"
-      },
-      "LocationID": 26,
-      "CountryLocation": "(41.87194 12.56738)",
-      "LandArea": 385,
-      "AverageTemperature": 14,
-      "AverageAltitude": 62,
-      "CountryID": 28
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c4"
-      },
-      "LocationID": 27,
-      "CountryLocation": "(23.634501 -102.552784)",
-      "LandArea": 2351,
-      "AverageTemperature": 19,
-      "AverageAltitude": 2119,
-      "CountryID": 34
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c5"
-      },
-      "LocationID": 28,
-      "CountryLocation": "(9.145 40.489673)",
-      "LandArea": 540,
-      "AverageTemperature": 0,
-      "AverageAltitude": 2650,
-      "CountryID": 16
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c6"
-      },
-      "LocationID": 29,
-      "CountryLocation": "(53.41291 -8.24389)",
-      "LandArea": 115,
-      "AverageTemperature": 10,
-      "AverageAltitude": 85,
-      "CountryID": 26
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c7"
-      },
-      "LocationID": 30,
-      "CountryLocation": "(46.151241 14.995463)",
-      "LandArea": 275,
-      "AverageTemperature": 10,
-      "AverageAltitude": 0,
-      "CountryID": 48
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c8"
-      },
-      "LocationID": 31,
-      "CountryLocation": "(-38.416097 -63.616672)",
-      "LandArea": 480,
-      "AverageTemperature": 15,
-      "AverageAltitude": 25,
-      "CountryID": 2
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8c9"
-      },
-      "LocationID": 32,
-      "CountryLocation": "(36.204824 138.252924)",
-      "LandArea": 1039,
-      "AverageTemperature": 16,
-      "AverageAltitude": 47,
-      "CountryID": 29
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ca"
-      },
-      "LocationID": 33,
-      "CountryLocation": "(4.570868 -74.297333)",
-      "LandArea": 1141,
-      "AverageTemperature": 23,
-      "AverageAltitude": 1822,
-      "CountryID": 10
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8cb"
-      },
-      "LocationID": 34,
-      "CountryLocation": "(60.128161 18.643501)",
-      "LandArea": 216,
-      "AverageTemperature": 7,
-      "AverageAltitude": 50,
-      "CountryID": 53
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8cc"
-      },
-      "LocationID": 35,
-      "CountryLocation": "(-40.900557 174.885971)",
-      "LandArea": 2592,
-      "AverageTemperature": 14,
-      "AverageAltitude": 79,
-      "CountryID": 38
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8cd"
-      },
-      "LocationID": 36,
-      "CountryLocation": "(64.963051 -19.020835)",
-      "LandArea": 275,
-      "AverageTemperature": 6,
-      "AverageAltitude": 40,
-      "CountryID": 23
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ce"
-      },
-      "LocationID": 37,
-      "CountryLocation": "(22.396428 114.109497)",
-      "LandArea": 1104,
-      "AverageTemperature": 23,
-      "AverageAltitude": 129,
-      "CountryID": 22
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8cf"
-      },
-      "LocationID": 38,
-      "CountryLocation": "(6.42375 -66.58973)",
-      "LandArea": 776,
-      "AverageTemperature": 25,
-      "AverageAltitude": 950,
-      "CountryID": 60
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d0"
-      },
-      "LocationID": 39,
-      "CountryLocation": "(38.963745 35.243322)",
-      "LandArea": 5746,
-      "AverageTemperature": 17,
-      "AverageAltitude": 327,
-      "CountryID": 57
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d1"
-      },
-      "LocationID": 40,
-      "CountryLocation": "(30.585164 36.238414)",
-      "LandArea": 800,
-      "AverageTemperature": 17,
-      "AverageAltitude": 900,
-      "CountryID": 30
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d2"
-      },
-      "LocationID": 41,
-      "CountryLocation": "(39.074208 21.824312)",
-      "LandArea": 39,
-      "AverageTemperature": 18,
-      "AverageAltitude": 208,
-      "CountryID": 21
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d3"
-      },
-      "LocationID": 42,
-      "CountryLocation": "(9.081999 8.675277)",
-      "LandArea": 3328,
-      "AverageTemperature": 30,
-      "AverageAltitude": 34,
-      "CountryID": 39
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d4"
-      },
-      "LocationID": 43,
-      "CountryLocation": "(40.786168 -81.288192)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 19
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d5"
-      },
-      "LocationID": 44,
-      "CountryLocation": "(43.738418 7.424616)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 35
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d6"
-      },
-      "LocationID": 45,
-      "CountryLocation": "(1.352083 103.819836)",
-      "LandArea": 719,
-      "AverageTemperature": 27,
-      "AverageAltitude": 0,
-      "CountryID": 47
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d7"
-      },
-      "LocationID": 46,
-      "CountryLocation": "(45.943161 24.96676)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 45
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d8"
-      },
-      "LocationID": 47,
-      "CountryLocation": "(61.52401 105.318756)",
-      "LandArea": 2511,
-      "AverageTemperature": 7,
-      "AverageAltitude": 0,
-      "CountryID": 46
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8d9"
-      },
-      "LocationID": 48,
-      "CountryLocation": "(14.058324 108.277199)",
-      "LandArea": 2095,
-      "AverageTemperature": 27,
-      "AverageAltitude": 0,
-      "CountryID": 61
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8da"
-      },
-      "LocationID": 49,
-      "CountryLocation": "(23.6978 120.9605)",
-      "LandArea": 1945,
-      "AverageTemperature": 23,
-      "AverageAltitude": 178,
-      "CountryID": 55
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8db"
-      },
-      "LocationID": 50,
-      "CountryLocation": "(4.5709 -74.2973)",
-      "LandArea": 1141,
-      "AverageTemperature": 23,
-      "AverageAltitude": 1822,
-      "CountryID": 10
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8dc"
-      },
-      "LocationID": 51,
-      "CountryLocation": "(61.9241 25.7482)",
-      "LandArea": 316,
-      "AverageTemperature": 6,
-      "AverageAltitude": 64,
-      "CountryID": 17
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8dd"
-      },
-      "LocationID": 52,
-      "CountryLocation": "(4.210484 101.975766)",
-      "LandArea": 2217,
-      "AverageTemperature": 30,
-      "AverageAltitude": 0,
-      "CountryID": 33
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8de"
-      },
-      "LocationID": 53,
-      "CountryLocation": "(31.046051 34.851612)",
-      "LandArea": 52,
-      "AverageTemperature": 20,
-      "AverageAltitude": 0,
-      "CountryID": 27
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8df"
-      },
-      "LocationID": 54,
-      "CountryLocation": "(31.9522 35.2332)",
-      "LandArea": 19,
-      "AverageTemperature": 25,
-      "AverageAltitude": 0,
-      "CountryID": 52
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e0"
-      },
-      "LocationID": 55,
-      "CountryLocation": "(42.697708 23.321868)",
-      "LandArea": 5151,
-      "AverageTemperature": 13,
-      "AverageAltitude": 0,
-      "CountryID": 6
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e1"
-      },
-      "LocationID": 56,
-      "CountryLocation": "(-6.121435 106.774124)",
-      "LandArea": 390,
-      "AverageTemperature": 31,
-      "AverageAltitude": 260,
-      "CountryID": 25
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e2"
-      },
-      "LocationID": 57,
-      "CountryLocation": "(41.153332 20.168331)",
-      "LandArea": 1110,
-      "AverageTemperature": 15,
-      "AverageAltitude": 0,
-      "CountryID": 1
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e3"
-      },
-      "LocationID": 58,
-      "CountryLocation": "(-9.19 -75.0152)",
-      "LandArea": 1785,
-      "AverageTemperature": 18,
-      "AverageAltitude": 154,
-      "CountryID": 41
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e4"
-      },
-      "LocationID": 59,
-      "CountryLocation": "(-0.7893 -113.9213)",
-      "LandArea": 390,
-      "AverageTemperature": 31,
-      "AverageAltitude": 260,
-      "CountryID": 25
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e5"
-      },
-      "LocationID": 60,
-      "CountryLocation": "(56.2639 9.5018)",
-      "LandArea": 131,
-      "AverageTemperature": 8,
-      "AverageAltitude": 17,
-      "CountryID": 13
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e6"
-      },
-      "LocationID": 61,
-      "CountryLocation": "(-11.6455 43.3333)",
-      "LandArea": 30,
-      "AverageTemperature": 23,
-      "AverageAltitude": 0,
-      "CountryID": 11
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e7"
-      },
-      "LocationID": 62,
-      "CountryLocation": "(15.870032 100.992541)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 56
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e8"
-      },
-      "LocationID": 63,
-      "CountryLocation": "(20.5937 78.9629)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 24
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8e9"
-      },
-      "LocationID": 64,
-      "CountryLocation": "(42.708678 19.37439)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 36
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ea"
-      },
-      "LocationID": 65,
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8eb"
-      },
-      "LocationID": 66,
-      "CountryLocation": "(35.86166 104.195397)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 9
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ec"
-      },
-      "LocationID": 67,
-      "LandArea": 2351,
-      "AverageTemperature": 19,
-      "AverageAltitude": 2119
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ed"
-      },
-      "LocationID": 68,
-      "CountryLocation": "(60.472 8.4689)",
-      "LandArea": 367,
-      "AverageTemperature": 6,
-      "AverageAltitude": 94,
-      "CountryID": 40
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ee"
-      },
-      "LocationID": 69,
-      "CountryLocation": "(56.8796 24.6032)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 31
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8ef"
-      },
-      "LocationID": 70,
-      "CountryLocation": "(58.5953 25.0136)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 15
-    },
-    {
-      "_id": {
-        "$oid": "65f808cb841f55429513b8f0"
-      },
-      "LocationID": 71,
-      "CountryLocation": "(-4.038333 21.758664)",
-      "LandArea": 0,
-      "AverageTemperature": 0,
-      "AverageAltitude": 0,
-      "CountryID": 12
     }
   ]
 }]
