@@ -1,7 +1,10 @@
-import { MongoClient } from 'mongodb';
+import { MongoClient } from "mongodb";
 
 const uri = "mongodb://localhost:27017";
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+const client = new MongoClient(uri, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 export default async function handler(req, res) {
   const { organizations } = req.query;
@@ -15,13 +18,13 @@ export default async function handler(req, res) {
     const orgs = await organizations.find({}).toArray();
 
     if (!orgs) {
-      return res.status(404).json({ message: 'No organizations found' });
+      return res.status(404).json({ message: "No organizations found" });
     }
 
     res.status(200).json({ organizations: orgs });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: "Server error" });
   }
 }
 
